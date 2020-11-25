@@ -37,11 +37,3 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
-
-# Docker files
-.dockerignore
-Dockerfile
-Dockerfile-test
-docker-compose-full.yml
-docker-compose.test.yml
-docker-compose.yml
